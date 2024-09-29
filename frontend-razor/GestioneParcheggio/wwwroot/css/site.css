@@ -1,0 +1,388 @@
+/* Impostazioni generali */
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+/* Sfondo */
+body {
+  background-image: url('../background.png');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Animazione testo */
+@keyframes zoomIn {
+  from {
+    transform: scale(1.05);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-zoom-in {
+  animation: zoomIn 2s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+  overflow: hidden;
+}
+
+/* Stili per il titolo */
+h1 {
+  font-family: 'Lato', sans-serif;
+  color: #2c176b; /* Blu viola più scuro */
+  padding: 10px 20px; /* Aggiungiamo spazio intorno al testo */
+  border-radius: 5px; /* Arrotondiamo gli angoli per una migliore presentazione */
+}
+
+/* Stili per il sottotitolo */
+h3 {
+  font-family: 'Lato', sans-serif;
+  color: #2c176b; /* Blu viola più scuro */
+  padding: 8px 16px; /* Aggiungiamo spazio intorno al testo */
+  border-radius: 4px; /* Arrotondiamo gli angoli per una migliore presentazione */
+}
+
+/* Stili per il paragrafo */
+p {
+  font-family: 'Arial', sans-serif;
+  color: #2c176b; /* Nero leggermente più chiaro per contrasto su sfondo azzurro */
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+span {
+  font-family: 'Arial', sans-serif;
+  color: #2c176b;
+  font-weight: bold;
+}
+
+.text-extra-small {
+  font-size: 12px; /* Esempio di dimensione del testo più piccola */
+  line-height: 1.2; /* Opzionale: definisci altezza della linea */
+  /* Altri stili CSS, se necessario */
+}
+
+/* Bottoni */
+.btn-primary,
+.btn-logout,
+.btn-register {
+  font-family: 'Roboto', sans-serif;
+  border-radius: 10px;
+  transition: background-color 0.3s, border-color 0.3s, color 0.3s;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #351fa7; /* Blu viola */
+  border-color: #351fa7;
+}
+
+.btn-primary:hover {
+  background-color: #260d5e; /* Tonalità più scura del blu viola al passaggio del mouse */
+  border-color: #260d5e;
+}
+
+.btn-logout {
+  background-color: #ff0000; /* Rosso */
+  border-color: #ff0000;
+}
+
+.btn-logout:hover {
+  background-color: #cc0000; /* Tonalità più scura del rosso al passaggio del mouse */
+  border-color: #cc0000;
+}
+
+#logoutButton.btn-logout:active {
+  background-color: #cc0000; /* Rosso scuro */
+  border-color: #cc0000;
+  color: #ffffff; /* Testo bianco */
+}
+
+.btn-register {
+  background-color: #0a6078; /* Turchese più scuro per maggiore contrasto */
+  border-color: #0a6078;
+}
+
+.btn-register:hover {
+  background-color: #004451; /* Tonalità più scura del turchese al passaggio del mouse */
+  border-color: #004451;
+}
+
+.card {
+  background-color: #fff;
+}
+
+.card-form {
+  background-color: inherit; /* Utilizza lo sfondo del genitore */
+}
+
+/* Card soluzione perfetta */
+.card-selectable {
+  cursor: pointer;
+}
+
+.card-selectable.selected {
+  border: 2px solid #0a7866;
+  border-radius: 10px;
+}
+
+.card-selectable:hover {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.card-radio {
+  display: none;
+}
+
+.no-border {
+  box-shadow: none;
+}
+
+.premium-message {
+  color: green;
+}
+
+/* Stili per i link */
+a.nav-link {
+  font-family: 'Roboto', sans-serif;
+  color: #5333ed; /* Blu viola per i link */
+  text-decoration: none;
+}
+
+a.nav-link:hover {
+  color: #260d5e; /* Azzurro più chiaro al passaggio del mouse */
+}
+
+/* Video Presentazione */
+video {
+  border-radius: 10px;
+}
+
+/* Immagine di Login */
+.img-login {
+  width: 250px;
+  height: auto;
+  max-width: 100%;
+  max-height: 250px;
+}
+
+/* Prenotazione posto */
+.form-label {
+  font-family: 'Arial', sans-serif;
+  color: #2c176b; /* Nero leggermente più chiaro per contrasto su sfondo azzurro */
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+input[type="datetime-local"],
+input[type="number"] {
+  border-radius: 5px;
+  border: 1px solid #ccc; /* Grigio chiaro */
+  padding: 8px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.card-text-title {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.color-card-indexUser {
+  font-family: 'Arial', sans-serif;
+  color: #2c176b; /* Nero leggermente più chiaro per contrasto su sfondo azzurro */
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.card-text-indexUser {
+  font-family: 'Arial', sans-serif;
+  color: #0a6078; /* Nero */
+  font-size: 1.0em;
+  line-height: 1.2;
+}
+
+.custom-border-green:valid {
+  border-color: #0a7866;
+}
+
+.invalid {
+  color: #dc3545; /* Colore del testo rosso */
+  font-size: 14px; /* Dimensione del carattere */
+  display: block; /* Assicura che l'elemento sia visualizzato come blocco */
+  line-height: 1.2;
+}
+
+.modal-center-confirm {
+  position: fixed;
+  left: 38%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  max-width: 300px;
+  max-width: 300px;
+  width: 100%;
+}
+
+.modal-confirm {		
+  color: #636363;
+  width: 300px;
+}
+.modal-confirm .modal-content {
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+}
+.modal-confirm .modal-header {
+  border-bottom: none;   
+  position: relative;
+}
+.modal-confirm h4 {
+  text-align: center;
+  font-size: 26px;
+  margin: 30px 0 -15px;
+}
+.modal-confirm .form-control, .modal-confirm .btn {
+  min-height: 40px;
+  border-radius: 3px; 
+}
+.modal-confirm .close {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}	
+.modal-confirm .modal-footer {
+  border: none;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 13px;
+}	
+.modal-confirm .icon-box {
+  color: #fff;		
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: -70px;
+  width: 95px;
+  height: 95px;
+  border-radius: 50%;
+  z-index: 9;
+  background: #ef513a;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+.modal-confirm .icon-box i {
+  font-size: 56px;
+  position: relative;
+  top: 4px;
+}
+.modal-confirm.modal-dialog {
+  margin-top: 80px;
+}
+.modal-confirm .btn {
+  color: #fff;
+  border-radius: 4px;
+  background: #ef513a;
+  text-decoration: none;
+  transition: all 0.4s;
+  line-height: normal;
+  border: none;
+}
+.modal-confirm .btn:hover, .modal-confirm .btn:focus {
+  background: #da2c12;
+  outline: none;
+}
+
+.modal-right {
+  position: fixed;
+  right: 18%; /* Sposta il modal leggermente verso destra */
+  top: 30%;
+  transform: translateY(-50%);
+  max-width: 300px; /* Dimensione massima del modal */
+  width: 100%;
+}
+
+.modal-center {
+  position: fixed;
+  left: 40%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  max-width: 300px;
+  max-width: 300px;
+  width: 100%;
+}
+
+/* modal di successo */
+.modal-success .icon-box-success {
+  color: #fff;		
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: -70px;
+  width: 95px;
+  height: 95px;
+  border-radius: 50%;
+  z-index: 9;
+  background: #28a745; /* Colore verde per indicare successo */
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+}
+
+.modal-success .icon-box-success i {
+  font-size: 56px;
+  position: relative;
+  top: 4px;
+}
+
+.modal-success.modal-dialog {
+  margin-top: 80px;
+}
+
+.modal-success .btn-success-custom {
+  color: #fff;
+  border-radius: 4px;
+  background: #28a745; /* Colore verde per indicare successo */
+  text-decoration: none;
+  transition: all 0.4s;
+  line-height: normal;
+  border: none;
+}
+
+.modal-success .btn-success-custom:hover, .modal-success .btn-success-custom:focus {
+  background: #218838; /* Colore verde scuro per l'hover */
+  outline: none;
+}
+
+
+/* Regole CSS per schermi mobili */
+@media (max-width: 767px) {
+  .modal-right {
+      position: fixed;
+      top: 8%;
+      left: 2%;
+      transform: translate(-50%, -50%);
+      max-width: 90%; /* Adatta la larghezza del modal per schermi più piccoli */
+  }
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+@page
+@model ModificaPrezziModel
+@{
+    ViewData["Title"] = "Modifica Prezzi";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<form id="updateForm" method="post" class="needs-validation" novalidate>
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <h1 class="card-text-title mb-4">Modifica i Prezzi</h1>
+            <div class="row">
+                <div class="col">
+                    <input type="text" name="costoSosta" id="costoSosta" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-2"
+                        placeholder="Costo Sosta" value="@Model.CostoSosta" oninput="isValidFormatPrices(this, 0);">
+                    <span id="pricesErrorSosta" class="invalid"></span>    
+                    <p>€/ora</p>
+                </div>
+                <div class="col">
+                    <input type="text" name="costoRicarica" id="costoRicarica" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-2"
+                        placeholder="Costo Ricarica" value="@Model.CostoRicarica" oninput="isValidFormatPrices(this, 1);">
+                    <span id="pricesErrorRicarica" class="invalid"></span>
+                    <p>€/Kw</p>
+                </div>
+            </div>
+            <div class="text-center mt-3">
+                <button type="submit" class="btn btn-primary">Modifica</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+<input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModalCenter.cshtml", new ErrorModalCenterModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+<input type="hidden" id="success-message" value="@TempData["SuccessMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/SuccessModal.cshtml", new SuccessModalModel { SuccessMessage = TempData["SuccessMessage"]?.ToString() })
+
+<script>
+    $(document).ready(function () {
+        var errorMessage = $("#error-message").val();
+        if (errorMessage) {
+            $("#errorModalCenter").modal('show');
+        } else if ($("#success-message").val()) {
+            $("#successModal").modal('show');
+        }
+    });
+</script>

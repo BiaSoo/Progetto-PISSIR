@@ -1,0 +1,41 @@
+@page
+@model TransazioniUtenteModel
+@{
+    ViewData["Title"] = "Tipologia Utente";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="text-center card-text-title mb-4">Transazioni</h1>
+            @if (Model.Transazioni != null && Model.Transazioni.Any()) {
+                <div class="table-responsive md">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Tipologia</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Importo</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Data Transazione</th>
+                            </tr>
+                        </thead>
+                        <tbody id="transazioni-list">
+                            @foreach (var transazione in Model.Transazioni)
+                            {
+                                <tr>
+                                    <td>@transazione.TipoTransazione</td>
+                                    <td>€ @transazione.Importo</td>
+                                    <td>@transazione.DataTransazione.ToString("dd-MM-yyyy HH:mm")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else {
+                <div id="no-bookings-message" class="alert alert-info mt-3">
+                    Non sono state effettuate transazioni
+                </div>
+            }
+        </div>
+    </div>
+</div>

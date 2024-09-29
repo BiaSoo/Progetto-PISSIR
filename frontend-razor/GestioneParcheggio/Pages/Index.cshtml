@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="row">
+    <!-- Colonna per il testo -->
+    <div class="col-md-6 text-center mt-4 animate-zoom-in">
+        <h1 class="card-text card-text-title">Benvenuti in ParcheggioTech</h1>
+        <h3>Gestione Intelligente del Parcheggio e Ricarica Auto Elettriche H24</h3>
+        <p>ParcheggioTech offre un'esperienza innovativa per la gestione del parcheggio
+            e la ricarica delle auto elettriche, disponibile 24 ore su 24.
+            Con la nostra piattaforma, puoi prenotare posti auto e richiedere la ricarica della tua auto in modo rapido, anche durante le ore notturne. Sfrutta la comodità della tecnologia per semplificare il tuo viaggio elettrico</p>
+        <div class="text-center">
+            <form method="post">
+                <a asp-page="Login" class="btn btn-primary btn-lg">Accedi</a>
+                <a asp-page="SignIn" class="btn btn-primary btn-lg btn-register ms-4">Registrati</a>
+            </form>
+        </div>
+    </div>
+    <!-- Colonna per l'immagine -->
+    <div class="col-md-6 text-center mt-5">
+        <img src="carIndex.png" class="img-fluid animate-zoom-in" alt="Immagine di Benvenuto" style="max-width: 100%; height: auto;">
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

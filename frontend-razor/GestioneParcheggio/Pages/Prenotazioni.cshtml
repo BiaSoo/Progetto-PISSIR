@@ -1,0 +1,70 @@
+@page
+@model PrenotazioniModel
+@{
+    ViewData["Title"] = "Tipologia Utente";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="text-center card-text-title mb-4">Prenotazioni Attive</h1>
+            @if (Model.Prenotazioni != null && Model.Prenotazioni.Any()) {
+                <div class="table-responsive mx-auto">
+                    <table class="table table-striped table-bordered table-sm">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Posto Auto</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Data Arrivo</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Permanenza (minuti)</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Data Uscita</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Data Creazione</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Azioni</th>
+                            </tr>
+                        </thead>
+                        <tbody id="prenotazioni-list">
+                            @foreach (var prenotazione in Model.Prenotazioni)
+                            {
+                                <tr>
+                                    <td>@prenotazione.IdPostoAuto</td>
+                                    <td>@prenotazione.TempoArrivo.ToString("dd-MM-yyyy HH:mm")</td>
+                                    <td>@prenotazione.DurataPermanenza</td>
+                                    <td>@prenotazione.TempoUscita.ToString("dd-MM-yyyy HH:mm")</td>
+                                    <td>@prenotazione.TimestampCreazione.ToString("dd-MM-yyyy HH:mm")</td>
+                                    <td class='col-md-2'>
+                                        <form asp-page-handler="DeletePrenotazione" asp-route-idPrenotazione="@prenotazione.Id_prenotazione">
+                                            <button type="submit" class="btn btn-logout">Cancella</button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else {
+                <div id="no-bookings-message" class="alert alert-info mt-3">
+                    Non ci sono prenotazioni attive
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModalCenter.cshtml", new ErrorModalCenterModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+<input type="hidden" id="success-message" value="@TempData["SuccessMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/SuccessModal.cshtml", new SuccessModalModel { SuccessMessage = TempData["SuccessMessage"]?.ToString() })
+
+<script>
+    $(document).ready(function () {
+        var errorMessage = $("#error-message").val();
+        if (errorMessage) {
+            $("#errorModalCenter").modal('show');
+        } else if ($("#success-message").val()) {
+            $("#successModal").modal('show');
+        }
+    });
+</script>

@@ -1,0 +1,23 @@
+@model AvailabilityModalModel
+
+<div class="modal fade" id="AvailabilityModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-center-confirm">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="myModalLabel">Conferma Prenotazione</h5>
+                <div class="icon-box">
+                    <i class="fas fa-times" data-bs-dismiss="modal"></i>
+                </div>
+            </div>
+            <div class="modal-body">
+                <p class="text-center text-success" id="availabilityMessage">@Model.Message</p>
+            </div>
+            <div class="modal-footer">
+                <form method="post" asp-page-handler="Conferma">
+                    <button type="submit" class="btn btn-primary">Conferma</button>
+                </form>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Annulla</button>
+            </div>
+        </div>
+    </div>
+</div>

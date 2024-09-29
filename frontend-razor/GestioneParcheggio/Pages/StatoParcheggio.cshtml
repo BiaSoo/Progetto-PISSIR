@@ -1,0 +1,41 @@
+@page
+@model StatoParcheggioModel
+@{
+    ViewData["Title"] = "Stato Parcheggio";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="text-center card-text-title mb-4">Stato Occupazione Posti Auto</h1>
+            @if (Model.Status != null && Model.Status.Any()) {
+                <div class="table-responsive md">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Posto Auto</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Riservato a Utenti Premium</th>
+                                <th scope="col" class="card-text-title" style="vertical-align: middle;">Occupato</th>
+                            </tr>
+                        </thead>
+                        <tbody id="parcheggi-list">
+                            @foreach (var status in Model.Status)
+                            {
+                                <tr>
+                                    <td>@status.PostoAuto</td>
+                                    <td>@(status.Riservato? "Si" : "No")</td>
+                                    <td>@(status.Occupato? "Si" : "No")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else {
+                <div id="no-bookings-message" class="alert alert-info mt-3">
+                    Non sono presenti posti auto
+                </div>
+            }
+        </div>
+    </div>
+</div>

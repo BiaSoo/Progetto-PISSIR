@@ -1,0 +1,61 @@
+@page
+@model UserTypeModel
+@{
+    ViewData["Title"] = "Tipologia Utente";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="card-text-title mb-4">Tipologia Utente</h1>
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <div class="card mb-3 mx-auto h-100">
+                        <input type="radio" name="user-type" value="premium" class="card-radio">
+                        <div class="card-body">
+                            <img class="card-img-top img-fluid w-50 mx-auto d-block" src="./premiumUser.ico" alt="Utente Premium">
+                            @if (Model.IsPremiumUser)
+                            {
+                                <p class="card-text premium-message" id="card-text">Sei un utente Premium!</p>
+                            }
+                            else
+                            {
+                                <h3 id="text-premium" class="premium-message">Passa a Premium:</h3>
+                                <p class="card-text" id="card-text">
+                                    <ul class="list-unstyled">
+                                        <li class="text-success small my-2">✓ Paga ora €10 per sempre</li>
+                                        <li class="text-success small my-2">✓ Richiedi ricarica</li>
+                                        <li class="text-success small my-2">✓ Prenota posto auto</li>
+                                    </ul>
+                                </p>
+                                <p class="text-muted mt-3 text-extra-small" id="p-addebito">L'addebito verrà effettuato sulla carta corrente</p>
+                            }
+                            <form method="post" id="upgradeToPremium-form" asp-page-handler="UpgradeToPremium" asp-antiforgery="true">
+                                <button type="submit" class="btn btn-primary btn-dm btn-register w-100" id="btn-acquista" style="@(Model.IsPremiumUser ? "display:none;" : "")">Acquista</button>
+                            </form>
+
+                            <input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+                            @await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModalCenter.cshtml", new ErrorModalCenterModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+                            <input type="hidden" id="success-message" value="@TempData["SuccessMessage"]" />
+                            @await Html.PartialAsync("~/Pages/Shared/Modals/SuccessModal.cshtml", new SuccessModalModel { SuccessMessage = TempData["SuccessMessage"]?.ToString() })
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        var errorMessage = $("#error-message").val();
+        if (errorMessage) {
+            $("#errorModalCenter").modal('show');
+        } else if ($("#success-message").val()) {
+            $("#successModal").modal('show');
+        }
+    });
+</script>

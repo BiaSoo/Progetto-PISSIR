@@ -1,0 +1,18 @@
+<configuration>
+
+    <!-- Configurazione dell'appender per la console -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Configurazione del logger di Jetty -->
+    <logger name="org.eclipse.jetty" level="WARN"/>
+
+    <!-- Definizione del logger di root -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE" />
+    </root>
+
+</configuration>

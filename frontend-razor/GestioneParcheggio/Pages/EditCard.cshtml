@@ -1,0 +1,75 @@
+@page
+@model EditCardModel
+@{
+    ViewData["Title"] = "Modifica Carta";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<form id="updateForm" method="post" class="needs-validation" novalidate>
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <h1 class="card-text-title mb-4">Modifica i Dati della tua Carta</h1>
+            <p class="my-1 card-text-title">Tipo Carta</p>
+            @{
+                var optionsHtml = new System.Text.StringBuilder();
+
+                if (Model.CardTypes != null && Model.CardTypes.Any())
+                {
+                    foreach (var cardType in Model.CardTypes)
+                    {
+                        var selected = cardType == Model.CardType ? "selected" : "";
+                        optionsHtml.AppendFormat("<option value=\"{0}\" {1}>{0}</option>", cardType, selected);
+                    }
+                }
+                else
+                {
+                    optionsHtml.Append("<option value=\"\">Nessun tipo di carta disponibile</option>");
+                }
+            }
+            <select name="tipoCarta" id="tipoCarta" class="form-control custom-border-green">
+                @Html.Raw(optionsHtml.ToString())
+            </select>
+            <p class="my-1 mt-4 card-text-title">Numero Carta</p>
+            <input type="text" name="numeroCarta" id="numeroCarta" class="form-control form-control-lg rounded-pill shadow-sm mt-3 py-2"
+                placeholder="Numero Carta" value="@Model.CardNumberFormatted" oninput="isValidFormatAndCardNumber(this);">
+            <span id="numberCardError" class="invalid"></span>
+            <div class="row">
+                <div class="col mt-4">
+                    <p class="my-1 card-text-title">Data Scadenza</p>
+                    <input type="text" name="dataScadenza" id="dataScadenza" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-2"
+                        placeholder="Data Scadenza" value="@Model.ExpirationDate" pattern="\d{2}/\d{2}"
+                        onfocus="if (this.placeholder === 'Data Scadenza') this.placeholder = 'MM/YY'" onblur="if (this.placeholder === 'MM/YY') this.placeholder = 'Data Scadenza'"
+                        oninput="isValidFormatAndDate(this);">
+                    <span id="expiryDateError" class="invalid"></span>
+                </div>
+                <div class="col mt-4">
+                    <p class="my-1 card-text-title">CVV</p>
+                    <input type="text" name="cvv" id="cvv" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-2"
+                        placeholder="CVV" value="@Model.CVV" oninput="isValidFormatCVV(this);" maxlength="3">
+                    <span id="cvvError" class="invalid"></span>
+                </div>
+            </div>
+            <div class="text-center mt-3">
+                <button type="submit" class="btn btn-primary">Aggiorna</button>
+            </div>
+        </div>
+    </div>
+</form>
+
+<input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModalCenter.cshtml", new ErrorModalCenterModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+<input type="hidden" id="success-message" value="@TempData["SuccessMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/SuccessModal.cshtml", new SuccessModalModel { SuccessMessage = TempData["SuccessMessage"]?.ToString() })
+
+<script>
+    $(document).ready(function () {
+        var errorMessage = $("#error-message").val();
+        if (errorMessage) {
+            $("#errorModalCenter").modal('show');
+        } else if ($("#success-message").val()) {
+            $("#successModal").modal('show');
+        }
+    });
+</script>

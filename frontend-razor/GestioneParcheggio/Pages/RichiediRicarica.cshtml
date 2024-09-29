@@ -1,0 +1,80 @@
+@page
+@model RichiediRicaricaModel
+@{
+    ViewData["Title"] = "Richiedi Ricarica";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <h1 class="card-text-title mb-4">Richiedi Ricarica</h1>
+            <form method="post" class="needs-validation" novalidate>
+                @if (Model.LicensePlates != null && Model.LicensePlates.Any()) {
+                        <div class="mb-3 row justify-content-center">
+                            <div class="col-md-8">
+                                <input type="text" class="form-control form-control-lg rounded-pill shadow-sm mdb-input py-1" id="percentualeRicarica"
+                                    name="percentualeRicarica" oninput="isValidFormatRicarica(this);" maxlength="3" placeholder="Percentuale di ricarica (%)">
+                                <span id="RicaricaError" class="invalid"></span>
+                            </div>
+                            <div class="col-md-4 mt-1">
+                                <select name="veicolo" class="form-control" required id="selectVeicolo">
+                                    @if (Model.LicensePlates != null && Model.LicensePlates.Any())
+                                    {
+                                        @foreach (var licensePlate in Model.LicensePlates)
+                                        {
+                                            <option value="@licensePlate">@licensePlate</option>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <option value="">Nessuna targa disponibile</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Mostra Disponibilità</button>
+                    <div id="result"></div>
+                }
+                else {
+                    <div id="no-bookings-message" class="alert alert-info mt-3">
+                        Non sono presenti tue auto all'interno del parcheggio
+                    </div>
+                }
+            </form>
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModalCenter.cshtml", new ErrorModalCenterModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+<input type="hidden" id="success-message" value="@TempData["SuccessMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/SuccessModal.cshtml", new SuccessModalModel { SuccessMessage = TempData["SuccessMessage"]?.ToString() })
+
+<input type="hidden" id="availability-message" value="@TempData["Message"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/AvailabilityModal.cshtml", new AvailabilityModalModel { Message = TempData["Message"]?.ToString() })
+
+<script>
+    $(document).ready(function () {
+        var availabilityMessage = $("#availability-message").val();
+        if (availabilityMessage) {
+            $("#AvailabilityModal").modal("show");
+        }
+
+        var errorMessage = $("#error-message").val();
+        if (errorMessage || $("#success-message").val()) {
+            $("#AvailabilityModal").modal('hide'); // Nascondo AvailabilityModal
+            if (errorMessage) {
+                $("#errorModalCenter").modal('show');
+            } else {
+                $("#successModal").modal('show');
+            }
+        }
+    });
+</script>
+
+
+
+

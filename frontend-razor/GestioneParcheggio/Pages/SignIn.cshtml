@@ -1,0 +1,143 @@
+@page
+@model SignInModel
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<div class="row">
+    <div class="col-md-6 order-md-1 mt-5"> <!-- Colonna per il titolo e la descrizione -->
+        <div class="container text-center">
+            <h3 class="card-text-title">REGISTRATI su ParcheggioTech</h3>
+            <p>Non hai ancora un account? Registrati ora per accedere a tutte le funzionalità del nostro servizio,
+                disponibile 24 ore su 24. Con un account, puoi prenotare posti auto, richiedere la ricarica della tua auto elettrica
+                e monitorare lo stato delle tue prenotazioni, in qualsiasi momento.
+                Inizia oggi stesso a godere dei vantaggi di ParcheggioTech.</p>
+            <video autoplay loop muted controlsList="nodownload" class="img-fluid w-100 mt-3">
+                <source src="Presentazione.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video> 
+        </div>
+    </div>
+    <div class="col-md-6 order-md-2">
+        <div class="card-form no-border">
+            <div class="card-body text-center">
+                <form id="signInForm" method="post" class="needs-validation" novalidate>
+                    <img src="./SignIn.png" alt="Icona" width="100" height="100" class="mx-auto">
+                    <div class="row justify-content-center my-4">
+                        <div class="col-md-8">
+                            <p class="my-2 card-text-title">Dati di Accesso</p>
+                            <div class="form-group">
+                                <input type="text" name="username" class="form-control form-control-lg rounded-pill shadow-sm mt-3 my-3 py-1" placeholder="Username" oninput="isValidUsername(this);" required>
+                                <span id="usernameError" class="invalid"></span>
+                            </div>
+                            <div class="form-group">
+                                <input type="password" id="password" name="password" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-1" placeholder="Password" oninput="isValidPassword(this);" required>
+                                <span id="passwordError" class="invalid"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center my-4">
+                        <div class="col-md-8">
+                            <p class="my-2 card-text-title">Dati Carta</p>
+                            <div class="form-group">
+                                <select name="tipoCarta" class="form-control custom-border-green" required>
+                                    @if (Model.CardTypes != null)
+                                    {
+                                        foreach (var cardType in Model.CardTypes)
+                                        {
+                                            <option value="@cardType">@cardType</option>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <option value="">Nessun tipo di carta disponibile</option>
+                                    }
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <input type="text" name="numeroCarta" id="numeroCarta" class="form-control form-control-lg rounded-pill shadow-sm mt-3 py-1" 
+                                placeholder="Numero Carta" oninput="isValidFormatAndCardNumber(this);" required>
+                                <span id="numberCardError" class="invalid"></span>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <div class="form-group">
+                                        <input type="text" name="dataScadenza" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-1"
+                                            placeholder="Data Scadenza" 
+                                            onfocus="if (this.placeholder === 'Data Scadenza') this.placeholder = 'MM/YY'" onblur="if (this.placeholder === 'MM/YY') this.placeholder = 'Data Scadenza'"
+                                            oninput="isValidFormatAndDate(this);" required>
+                                        <span id="expiryDateError" class="invalid"></span>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <div class="form-group">
+                                        <input type="text" name="cvv" id="cvv" class="form-control form-control-lg rounded-pill shadow-sm my-3 py-1" 
+                                            placeholder="CVV" oninput="isValidFormatCVV(this);" maxlength="3" required>
+                                        <span id="cvvError" class="invalid"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row justify-content-center my-4">
+                        <div class="col-md-10">
+                            <p class="my-2 card-text-title">Seleziona la soluzione perfetta per te</p>
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="card mb-3 card-selectable selected" onclick="selectCard(this)">
+                                        <input type="radio" value="true" class="card-radio" name="utente-base" checked>
+                                        <div class="card-body">
+                                            <img class="card-img-top img-fluid w-50 mx-auto d-block" src="./baseUser.ico" alt="Utente Base">
+                                            <h5 class="card-title small card-text-title">UTENTE BASE</h5>
+                                            <p class="card-text">
+                                                <ul class="list-unstyled">
+                                                    <li class="text-success small my-2">✓ Nessun costo aggiuntivo</li>
+                                                    <li class="text-success small my-2">✓ Richiedi ricarica</li>
+                                                    <li class="text-danger small">✗ Prenota posto auto</li>
+                                                </ul>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6">
+                                    <div class="card mb-3 card-selectable" onclick="selectCard(this)">
+                                        <input type="radio" name="utente-premium" value="true" class="card-radio">
+                                        <div class="card-body">
+                                            <img class="card-img-top img-fluid w-50 mx-auto d-block" src="./premiumUser.ico" alt="Utente Premium">
+                                            <h5 class="card-title small card-text-title">UTENTE PREMIUM</h5>
+                                            <p class="card-text">
+                                                <ul class="list-unstyled">
+                                                    <li class="text-success small my-2">✓ Paga ora €10 per sempre</li>
+                                                    <li class="text-success small my-2">✓ Richiedi ricarica</li>
+                                                    <li class="text-success small">✓ Prenota posto auto</li>
+                                                </ul>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="text-center mt-4 my-3">
+                        <button type="submit" name="submit-button" class="btn btn-primary btn-register" asp-page-handler="SignIn">Registrati</button>
+                        <a asp-page="Login" class="nav-link mt-3">Hai già un account ?</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModal.cshtml", new ErrorModalModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+<script>
+    $(document).ready(function () {
+        var errorMessage = $("#error-message").val();
+        if (errorMessage) {
+            $("#errorModal").modal('show');
+        }
+    });
+</script>

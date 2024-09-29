@@ -1,0 +1,20 @@
+﻿.navbar-logo {
+  width: 60px; /* Imposta la larghezza desiderata */
+  height: auto; /* Imposta l'altezza automaticamente in base all'aspetto originale */
+}
+
+.footer {
+  position: absolute; /* Posiziona il footer in modo fisso */
+  bottom: 0; /* Lo posiziona nella parte inferiore */
+  width: 100%; /* Occupa l'intera larghezza della pagina */
+  color: #3026d9;
+  font-weight: bold;
+  font-size: 12px; /* Aggiunto per ridurre la dimensione del testo */
+}
+
+
+
+
+
+
+

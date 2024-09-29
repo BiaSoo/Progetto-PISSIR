@@ -1,0 +1,117 @@
+﻿@inject GestioneParcheggio.Services.AuthService authService
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    
+    <!-- Inclusione dei favicons -->
+    @await Html.PartialAsync("_Favicons")
+    
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/mdb.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-datetimepicker.min.css">
+    <link rel="stylesheet" href="~/GestioneParcheggio.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    
+    <!-- jQuery -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    
+</head>
+<body>
+    <header>
+        <!-- Navbar -->
+        <nav class="navbar navbar-expand-lg no-border">
+            <!-- Container wrapper -->
+            <div class="container">
+                <!-- Navbar brand -->
+                @if (authService.IsAuthenticated(@Context.Request))
+                {
+                    @if (authService.GetUserName(@Context.Request) != null && authService.IsAdmin(@Context.Request))
+                    {
+                        <a asp-page="Admin" class="navbar-brand" id="navbar-logo-link">
+                            <img class="navbar-logo" src="./favicon.ico">
+                        </a>
+                    }
+                    else
+                    {
+                        <a asp-page="IndexUser" class="navbar-brand" id="navbar-logo-link">
+                            <img class="navbar-logo" src="./favicon.ico">
+                        </a>
+                    }
+                }
+                else
+                {
+                    <a asp-page="Index" class="navbar-brand" id="navbar-logo-link">
+                        <img class="navbar-logo" src="./favicon.ico">
+                    </a>
+                }
+                <!-- Toggle button -->
+                <button
+                    data-mdb-collapse-init
+                    class="navbar-toggler"
+                    type="button"
+                    data-mdb-target="#navbarButtonsExample"
+                    aria-controls="navbarButtonsExample"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation"
+                >
+                    <i class="fas fa-bars"></i>
+                </button>
+                <!-- Collapsible wrapper -->
+                <div class="collapse navbar-collapse justify-content-end" id="navbarButtonsExample">
+                    <div class="d-flex align-items-center" id="navbarButtons">
+                        @if (authService.IsAuthenticated(Context.Request))
+                        {
+                            <span class="me-4">Ciao, @authService.GetUserName(Context.Request)!</span>
+                            <form method="post" asp-page="Logout">
+                                <button type="submit" class="btn btn-logout">Esci</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <a asp-page="Login" class="btn btn-primary btn-dm">Accedi</a><a asp-page="SignIn" class="btn btn-primary btn-dm btn-register ms-4">Registrati</a>
+                        }
+                    </div>
+                </div>
+                <!-- Collapsible wrapper -->
+            </div>
+            <!-- Container wrapper -->
+        </nav>
+    </header>
+    <div class="container">
+    <main role="main" class="pb-3">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="footer text-muted text-center">
+    <div class="container">
+        © 2024 - ParcheggioTech
+    </div>
+</footer>
+
+    <!-- Validation -->
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/mdb.umd.min.js"></script>
+
+    <!-- Date/Time Picker -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.26.0/moment.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap-datetimepicker.min.js"></script>
+
+    <!-- Custom script -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

@@ -1,0 +1,55 @@
+@page
+@using GestioneParcheggio.Pages
+@model LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+@using GestioneParcheggio.Pages.Shared.Modals
+
+<form method="post" id="login-form" asp-page-handler="Login" asp-antiforgery="true">
+    <div class="row">
+        <div class="col-md-6 order-md-1 mt-4">
+            <div class="container text-center">
+                <h3 class="card-text-title">BENTORNATO</h3>
+                <p>Accedi al tuo account per prenotare posti auto, gestire le tue prenotazioni e richiedere la ricarica della tua auto elettrica, 24 ore su 24.</p>
+                <img src="carLogin.png" alt="Immagine auto" class="img-fluid mx-auto d-block mt-4 img-login">
+            </div>
+        </div>
+        <div class="col-md-6 order-md-1 mt-4">
+            <div class="card-form bg-card no-border">
+                <div class="card-body text-center">
+                    <img src="./login.png" alt="Icona di accesso" width="100" height="100" class="mx-auto">
+                    <div class="row justify-content-center my-4">
+                        <div class="col-md-8">
+                            <input type="text" asp-for="Username" class="form-control form-control-lg rounded-pill shadow-sm" placeholder="Username" required>
+                            <input type="password" asp-for="Password" class="form-control form-control-lg rounded-pill shadow-sm my-3" placeholder="Password" required>
+                        </div>
+                    </div>
+                    <div class="text-center mt-4 my-3">
+                        <button type="submit" name="submit-button" class="btn btn-primary">Accedi</button>
+                        <a asp-page="SignIn" class="nav-link mt-3">Non hai ancora un account?</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<input type="hidden" id="error-message" value="@TempData["ErrorMessage"]" />
+@await Html.PartialAsync("~/Pages/Shared/Modals/ErrorModal.cshtml", new ErrorModalModel { ErrorMessage = TempData["ErrorMessage"]?.ToString() })
+
+<script>
+    $(document).ready(function () {
+        var errorMessage = $("#error-message").val();
+        if (errorMessage) {
+            $("#errorModal").modal('show');
+        }
+    });
+</script>
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+@page
+@model NotificaModel
+@{
+    ViewData["Title"] = "Notifica Ricarica";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8 text-center">
+            <h1 class="text-center card-text-title mb-4">Notifica Completamento Ricarica</h1>
+            @if (!string.IsNullOrEmpty(Model.Message))
+            {
+                <div id="no-bookings-message" class="alert alert-info mt-3">
+                    @Model.Message
+                </div>
+            }
+            else
+            {
+                <div id="no-bookings-message" class="alert alert-info mt-3">
+                    Nessun nuovo messaggio
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+@page
+@model AdminModel
+@{
+    ViewData["Title"] = "Admin Page";
+}
+
+<div class="text-center mb-3">
+    <h3 class="card-text-title">DASHBOARD admin</h3>
+</div>
+<div class="d-flex flex-wrap justify-content-center">
+    <!-- Modifica Costi -->
+    <a class="card mb-3 card-selectable mx-2" asp-page="ModificaPrezzi" style="width: 18rem;" onclick="redirectToPage(this)">
+        <img src="prices.png" class="card-img-top" alt="...">
+        <div class="card-body text-center">
+            <h5 class="card-text-title color-card-indexUser">Modifica Prezzi</h5>
+            <p class="card-text card-text-indexUser">Modifica prezzi €/ora della sosta e €/Kw della ricarica</p>
+        </div>
+    </a>
+    <!-- Stato Occupazione Posti Auto -->
+    <a class="card mb-3 card-selectable mx-2" asp-page="StatoParcheggio" style="width: 18rem;" onclick="redirectToPage(this)">
+        <img src="postiAuto.jpg" class="card-img-top" alt="...">
+        <div class="card-body text-center">
+            <h5 class="card-text-title color-card-indexUser">Stato Occupazione Posti Auto</h5>
+            <p class="card-text card-text-indexUser">Clicca per monitorare lo stato di occupazione di ogni posto auto</p>
+        </div>
+    </a>
+    <!-- Vsualizza Transazioni Utente -->
+    <a class="card mb-3 card-selectable mx-2" asp-page="TransazioniUtenti" style="width: 18rem;" onclick="redirectToPage(this)">
+        <img src="ricercaTransazioni.jpg" class="card-img-top" alt="Immagine Ricarica">
+        <div class="card-body text-center">
+            <h5 class="card-text-title color-card-indexUser">Visualizza Transazioni Utenti</h5>
+            <p class="card-text card-text-indexUser">Clicca per visualizzare i pagamenti degli utenti</p>
+        </div>
+    </a>
+</div>

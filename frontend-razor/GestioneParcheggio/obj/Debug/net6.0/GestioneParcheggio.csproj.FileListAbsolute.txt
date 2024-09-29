@@ -1,0 +1,381 @@
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\Gestione.2AAAE140.Up2Date
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\Mondelli\Desktop\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\condiviso\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\fedem\Downloads\aa23-24-gruppo04-9eff8287338a14adc83ecddba422a95e885878eb\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\Mondelli\Downloads\a\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\QRCoder.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\QRCoder.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CopyComplete
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll
+C:\Users\fedem\Desktop\Federico\UNIVERSITA\NON PASSATI\PISSIR PROGETTO\clone master corretto\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\MQTTnet.AspNetCore.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\appsettings.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.staticwebassets.runtime.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.exe
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.deps.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.runtimeconfig.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\MQTTnet.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\MQTTnet.AspNetCore.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Npgsql.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\QRCoder.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.AssemblyInfo.cs
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.RazorAssemblyInfo.cs
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.GestioneParcheggio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.build.GestioneParcheggio.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GestioneParcheggio.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GestioneParcheggio.props
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\bundle\GestioneParcheggio.styles.css
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\scopedcss\projectbundle\GestioneParcheggio.bundle.scp.css
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\Gestione.2AAAE140.Up2Date
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\refint\GestioneParcheggio.dll
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.pdb
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\GestioneParcheggio.genruntimeconfig.cache
+C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\obj\Debug\net6.0\ref\GestioneParcheggio.dll

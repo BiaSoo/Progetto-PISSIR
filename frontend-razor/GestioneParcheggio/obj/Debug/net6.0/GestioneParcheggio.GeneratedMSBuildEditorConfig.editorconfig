@@ -1,0 +1,123 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GestioneParcheggio
+build_property.RootNamespace = GestioneParcheggio
+build_property.ProjectDir = C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gabri\Desktop\aa23-24-gruppo04\frontend-razor\GestioneParcheggio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/EditCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdENhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/IndexUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXhVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/ModificaPrezzi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW9kaWZpY2FQcmV6emkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Notifica.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/PrenotaPosto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbm90YVBvc3RvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Prenotazioni.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJlbm90YXppb25pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/QRCodeUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUVJDb2RlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/RichiediRicarica.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmljaGllZGlSaWNhcmljYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/Modals/AvailabilityModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1vZGFsc1xBdmFpbGFiaWxpdHlNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/Modals/ErrorModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1vZGFsc1xFcnJvck1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/Modals/ErrorModalCenter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1vZGFsc1xFcnJvck1vZGFsQ2VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/Modals/SuccessModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE1vZGFsc1xTdWNjZXNzTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/_Favicons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9GYXZpY29ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbkluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/StatoParcheggio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhdG9QYXJjaGVnZ2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/TransazioniUtente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhemlvbmlVdGVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/TransazioniUtenti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhbnNhemlvbmlVdGVudGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/UserType.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclR5cGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabri/Desktop/aa23-24-gruppo04/frontend-razor/GestioneParcheggio/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j83hf7yk85
